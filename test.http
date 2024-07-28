@@ -1,0 +1,3 @@
+### GET ALL RESTAURANTS
+
+GET http://localhost:8000/restaurants
